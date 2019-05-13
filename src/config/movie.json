@@ -1,0 +1,155 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "movie": "The Shawshank Redemption",
+            "gener": ["Drama"],
+            "rating": 2
+        },
+        {
+            "id": 2,
+            "movie": "The Godfather",
+            "gener": ["Crime", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 3,
+            "movie": "The Dark Knight",
+            "gener": ["Action", "Crime", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 4,
+            "movie": "The Godfather: Part II",
+            "gener": ["Crime", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 5,
+            "movie": "The Lord of the Rings: The Return of the King",
+            "gener": ["Adventure", "Fantasy"],
+            "rating": 3
+        },
+        {
+            "id": 6,
+            "movie": "Pulp Fiction",
+            "gener": ["Crime", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 7,
+            "movie": "Schindler's List",
+            "gener": ["Biography", "History"],
+            "rating": 3
+        },
+        {
+            "id": 8,
+            "movie": "12 Angry Men",
+            "gener": ["Drama"],
+            "rating": 3
+        },
+        {
+            "id": 9,
+            "movie": "Fight Club",
+            "gener": ["Drama"],
+            "rating": 3
+        },
+        {
+            "id": 10,
+            "movie": "The Lord of the Rings - The Fellowship of the Ring",
+            "gener": ["Adventure", "Fantasy"],
+            "rating": 3
+        },
+        {
+            "id": 11,
+            "movie": "Forrest Gump",
+            "gener": ["Romance"],
+            "rating": 3
+        },
+        {
+            "id": 12,
+            "movie": "The Lord of the Rings - The Two Towers",
+            "gener": ["Adventure", "Drama", "Fantasy"],
+            "rating": 3
+        },
+        {
+            "id": 13,
+            "movie": "Goodfellas",
+            "gener": ["Biography", "Crime"],
+            "rating": 3
+        },
+        {
+            "id": 14,
+            "movie": "One Flew Over the Cuckoo's Nest",
+            "gener": ["Drama"],
+            "rating": 3
+        },
+        {
+            "id": 15,
+            "movie": "Seven Samurai",
+            "gener": ["Adventure", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 16,
+            "movie": "Interstellar",
+            "gener": ["Adventure", "Sci-Fi"],
+            "rating": 3
+        },
+        {
+            "id": 17,
+            "movie": "City of God",
+            "gener": ["Crime", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 18,
+            "movie": "Saving Private Ryan",
+            "gener": ["Crime"],
+            "rating": 3
+        },
+        {
+            "id": 19,
+            "movie": "The Green Mile",
+            "gener": ["Crime", "Fantasy"],
+            "rating": 3
+        },
+        {
+            "id": 20,
+            "movie": "Life Is Beautiful",
+            "gener": ["Romance"],
+            "rating": 3
+        },
+        {
+            "id": 21,
+            "movie": "Se7en",
+            "gener": ["Crime"],
+            "rating": 3
+        },
+        {
+            "id": 22,
+            "movie": "Leon: The Professional",
+            "gener": ["Action", "Drama"],
+            "rating": 3
+        },
+        {
+            "id": 23,
+            "movie": "The Silence of the Lambs",
+            "gener": ["Crime", "Thriller"],
+            "rating": 3
+        },
+        {
+            "id": 24,
+            "movie": "It's a Wonderful Life",
+            "gener": ["Fantasy"],
+            "rating": 3
+        },
+        {
+            "id": 25,
+            "movie": "Dangal",
+            "gener": ["Action", "Biography"],
+            "rating": 3
+        }
+        
+    ]
+}
