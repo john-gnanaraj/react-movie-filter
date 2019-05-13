@@ -4,6 +4,8 @@ import { selectFilter, textFilter, Comparator  } from 'react-bootstrap-table2-fi
 import Movie from '../component/movie';
 import data from '../config/movie.json';
 
+import '../component/movie/movie.css';
+
 export default class MovieContainer extends Component {
   
 constructor() {

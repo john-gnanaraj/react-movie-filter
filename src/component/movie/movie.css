@@ -1,0 +1,3 @@
+.react-bootstrap-table>table>thead>tr>th .filter-label { display: inline-block !important; margin-left: 10px; }
+.react-bootstrap-table table tr th:first-child { width: 100px; }
+.react-bootstrap-table table tr th.sortable { width: 200px; }
